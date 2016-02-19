@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](http://opensource.org/licenses/MIT)
 
-The attached code is an implementation of three different methods measuring the influence of a Twitter account. Specifically, we have developed the following papers:
+The attached code is an implementation of three different methods measuring the influence of a Twitter account. Specifically, we have developed the following techniques:
 
 &bull;Cha, Meeyoung, et al. "Measuring User Influence in Twitter: The Million Follower Fallacy." ICWSM 10 (2010): 10-17.
 
